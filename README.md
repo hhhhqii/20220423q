@@ -54,27 +54,27 @@ return 0;
 
 
 
-'''bash
+```bash
 git add filename
+```
 
-
-'''cpp
+```cpp
       //c++代码片段
+```
 
-
-'''python 
+```python 
        //python代码片段
+```
 
-
-'''java
+```java
        //java代码片段
-
+```
 
 ## 插入图片和链接
 
-[bilibili弹幕网] (https://www.bilibili.com "点击进入b站")
+[bilibili弹幕网](https://www.bilibili.com "点击进入b站")
 
-[!git.jpg](C:\\Users\\胡\\Desktop//x.jpg "图片标题")
+![git.jpg](C://Users//胡//Desktop//git.jpg "图片标题")
 
 
 
